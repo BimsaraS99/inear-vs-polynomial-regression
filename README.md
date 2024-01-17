@@ -1,1 +1,1 @@
-# inear-vs-polynomial-regression
+# Linear-vs-polynomial-regression
